@@ -1,5 +1,0 @@
-[2026-01-01 14:06:12,357] INFO - Data Ingestion started
-[2026-01-01 14:06:12,501] INFO - Dataset read successfully
-[2026-01-01 14:06:13,246] INFO - Raw data saved
-[2026-01-01 14:06:13,275] INFO - Data split into train and test sets
-[2026-01-01 14:06:14,023] INFO - Train and test data saved
